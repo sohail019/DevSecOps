@@ -55,3 +55,4 @@ To practice source code management on GitHub, follow these steps:
 9. **Verify on GitHub:** 
    - Visit your GitHub repository in a web browser, and you should see the changes reflected there.
 
+These steps demonstrate how to use GitHub for source code management. You can use the same steps to manage any source code projects on GitHub. Additionally, you can also explore GitHub features such as pull requests, code review, and branch management to enhance your source code management workflow.
