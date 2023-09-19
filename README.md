@@ -3,8 +3,6 @@
 ## Aim
 Practice Source code management on GitHub. Experiment with the source code written in exercise 1.
 
-## Description
-To practice source code management on GitHub, follow these steps:
 
 1. **Create a GitHub Account:** If you don't already have one, [create a GitHub account](https://github.com/).
 
